@@ -45,3 +45,4 @@ foled
 settings
 active
 alternative
+mind
