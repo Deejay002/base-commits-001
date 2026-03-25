@@ -43,3 +43,4 @@ focus
 wrap
 foled
 settings
+active
