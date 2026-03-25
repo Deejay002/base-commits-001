@@ -21,3 +21,4 @@ all in one
 coinbase
 baased 2
 helsa
+samsung
