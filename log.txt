@@ -37,3 +37,4 @@ control
 move
 tab
 keyboard
+moving
