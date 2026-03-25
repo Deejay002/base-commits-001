@@ -39,3 +39,4 @@ tab
 keyboard
 moving
 use
+focus
