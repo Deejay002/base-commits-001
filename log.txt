@@ -33,3 +33,4 @@ now
 lets
 shiftt
 ameer
+control
