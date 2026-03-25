@@ -22,3 +22,4 @@ coinbase
 baased 2
 helsa
 samsung
+ippho
